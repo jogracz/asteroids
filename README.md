@@ -1,5 +1,5 @@
 # Simple data visualization web app 
-## created with NASA Near Earth Object API : https://api.nasa.gov/
+## created with NASA Asteroids NeoWs API : https://api.nasa.gov/
 
 Project running on github pages, available on https://jogracz.github.io/asteroids/
 
