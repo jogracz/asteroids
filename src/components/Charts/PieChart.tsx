@@ -20,7 +20,7 @@ const PieChartComponent = (props: ChartProps) => {
 
   return (
     <div>
-      <p style={{ fontSize: 16, textAlign: "center", marginBottom: 10 }}>
+      <p style={{ fontSize: 16, textAlign: "center", marginBottom: 30 }}>
         Potentially dangerous vs safe asteroids:
       </p>
       <PieChart width={420} height={300}>

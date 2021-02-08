@@ -42,14 +42,14 @@ const LineChartComponent = (props: ChartProps) => {
 
   return (
     <div>
-      <p style={{ fontSize: 16, textAlign: "center", marginBottom: 10 }}>
+      <p style={{ fontSize: 16, textAlign: "center", marginBottom: 30 }}>
         Diameter in{" "}
         <select
           className={classes.unitsSelect}
           value={unit.long}
           onChange={(e) => {
             Object.values(UNITS).forEach(
-              (value) => value.long == e.target.value && setUnit(value)
+              (value) => value.long === e.target.value && setUnit(value)
             );
           }}
         >
