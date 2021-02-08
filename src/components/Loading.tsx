@@ -23,7 +23,7 @@ const useStyles = makeStyles({
 
 const Loading = () => {
   const classes = useStyles();
-  return <img className={classes.asteroid} src={asteroid} />;
+  return <img className={classes.asteroid} src={asteroid} alt="Loading" />;
 };
 
 export default Loading;
