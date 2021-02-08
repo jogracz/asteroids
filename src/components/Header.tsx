@@ -24,7 +24,6 @@ const useStyles = makeStyles({
     paddingRight: "10%",
     width: "80%",
     color: "#333",
-    zIndex: 1,
   },
   headerTitle: {
     textAlign: "left",

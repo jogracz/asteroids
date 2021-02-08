@@ -23,7 +23,7 @@ const useStyles = makeStyles({
     flexDirection: "column",
     alignItems: "center",
     color: "#444",
-    zIndex: 1,
+    marginBottom: 100,
   },
   totalCount: {
     fontSize: 24,
