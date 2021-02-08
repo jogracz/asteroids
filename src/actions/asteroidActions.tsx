@@ -2,7 +2,7 @@ import { GET_ASTEROIDS, ERROR, SET_LOADING } from "./types";
 import moment from "moment";
 import { TimeEnum } from "../components/Header";
 
-const API_KEY = "vPAwzv67PyeOjcjeRqkYC7fzC6S9GPASXfsIyiRO";
+// const API_KEY = 
 const NASA_URL = "https://api.nasa.gov";
 
 export const getAsteroids = (time: TimeEnum = TimeEnum.TODAY) => async (
