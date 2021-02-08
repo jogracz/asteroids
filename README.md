@@ -15,7 +15,7 @@ Project running on github pages, available on https://jogracz.github.io/asteroid
 
 and 
 
-### `npm build`
+### `npm run build`
 
 ### `serve -s build`
  
