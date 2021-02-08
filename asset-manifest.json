@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/asteroids/static/css/main.9d59b25f.chunk.css",
-    "main.js": "/asteroids/static/js/main.cb1d9914.chunk.js",
-    "main.js.map": "/asteroids/static/js/main.cb1d9914.chunk.js.map",
+    "main.js": "/asteroids/static/js/main.625ef121.chunk.js",
+    "main.js.map": "/asteroids/static/js/main.625ef121.chunk.js.map",
     "runtime-main.js": "/asteroids/static/js/runtime-main.3353f572.js",
     "runtime-main.js.map": "/asteroids/static/js/runtime-main.3353f572.js.map",
     "static/js/2.169cb518.chunk.js": "/asteroids/static/js/2.169cb518.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3353f572.js",
     "static/js/2.169cb518.chunk.js",
     "static/css/main.9d59b25f.chunk.css",
-    "static/js/main.cb1d9914.chunk.js"
+    "static/js/main.625ef121.chunk.js"
   ]
 }
