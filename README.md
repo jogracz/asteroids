@@ -1,5 +1,11 @@
-# Simple data visualization web app 
-## created with NASA Asteroids NeoWs API : https://api.nasa.gov/
+# Asteroids data visualization web app 
+## created with:
+ - NASA Asteroids NeoWs API : https://api.nasa.gov/
+ - React
+ - Typescript
+ - Material UI
+ - Redux
+ - Recharts
 
 Project running on github pages, available on https://jogracz.github.io/asteroids/
 
