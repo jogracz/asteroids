@@ -1,4 +1,7 @@
-# Asteroids data visualization web app 
+# Web app showing asteroids apporaching Earth or Don't look up app ;)
+
+https://jogracz.github.io/asteroids/
+
 ## created with:
  - NASA Asteroids NeoWs API : https://api.nasa.gov/
  - React
@@ -7,7 +10,6 @@
  - Redux
  - Recharts
 
-Project running on github pages, available on https://jogracz.github.io/asteroids/
 
 ## To run it locally, clone this repo and run:
 
@@ -26,4 +28,4 @@ and
  to run it in a development mode
 
 
-I hope you enjoy it! Keep safe! :)
+I hope you enjoy it! Stay safe! :)
